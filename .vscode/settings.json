@@ -1,0 +1,36 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "cssrem.fixedDigits": 37.5,
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 20,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "[json]": {
+        "editor.defaultFormatter": "Wscats.eno"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "Wscats.eno"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "Wscats.eno"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "Wscats.eno"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "react-native-tools.showUserTips": false,
+    "typescript.disableAutomaticTypeAcquisition": true
+}
